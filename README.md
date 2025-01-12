@@ -1,2 +1,2 @@
 # Cat-Photo-App
-learn basic html and css
+basic html project
